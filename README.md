@@ -11,7 +11,7 @@ The dataset used in this analysis includes the following columns:
 5. **Engaged Sessions:** Number of sessions with significant user engagement.
 6. **Average Engagement Time per Session:** The average time a user is engaged per session.
 7. **Engaged Sessions per User**: Ratio of engaged sessions to total sessions per user.
-8 **Events per Session:** Average number of events (actions taken) per session.
+8. **Events per Session:** Average number of events (actions taken) per session.
 9. **Engagement Rate**: The proportion of sessions that were engaged.
 10. **Event Count:** Total number of events during the period.
 
